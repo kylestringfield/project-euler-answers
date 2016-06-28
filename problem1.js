@@ -8,5 +8,3 @@ function sumOfMultiples(limit) {
   }
   return sum;
 }
-
-sumOfMultiples(1000);
